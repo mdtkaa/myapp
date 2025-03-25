@@ -1,0 +1,3 @@
+# values.sops.yaml
+secret:
+  password: "mySuperSecretPassword123!"

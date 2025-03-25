@@ -1,0 +1,4 @@
+# .sops.yaml
+creation_rules:
+  - path_regex: values\.sops\.yaml$
+    age: "age1m2njeuxahduruegw4xw3vh2kp52cvtv2yakljwc4xah2w0fgw9rqy88pmn"
